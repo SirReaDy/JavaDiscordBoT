@@ -1,0 +1,327 @@
+2020-05-29 03:37:15,448 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-29 03:44:11,727 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DiscordBot:DiscordBot:1.0-SNAPSHOT @ D:\University\DiscordBots\DiscordBot-master - Copy\pom.xml.
+2020-05-29 03:44:11,727 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DiscordBot:DiscordBot:1.0-SNAPSHOT @ D:\University\DiscordBots\DiscordBot-master - Copy\pom.xml.
+2020-05-29 03:44:14,768 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 03:44:14,790 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 03:44:14,799 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 03:44:14,812 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 03:44:15,388 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-05-29 03:44:16,771 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DiscordBot:DiscordBot:1.0-SNAPSHOT @ D:\University\DiscordBots\DiscordBot-master - Copy\pom.xml.
+2020-05-29 03:44:36,393 [Worker-0: Launching DiscordBot-master - Copy] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\University\DiscordBots\DiscordBot-master - Copy
+2020-05-29 03:44:36,394 [Worker-0: Launching DiscordBot-master - Copy] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B Release
+2020-05-29 03:46:48,876 [Worker-11: Launching DiscordBot-master - Copy] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\University\DiscordBots\DiscordBot-master - Copy
+2020-05-29 03:46:48,876 [Worker-11: Launching DiscordBot-master - Copy] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B Release
+2020-05-29 03:48:31,002 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-05-29 03:48:31,236 [Worker-12: Launching DiscordBot-master - Copy] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\University\DiscordBots\DiscordBot-master - Copy
+2020-05-29 03:48:31,236 [Worker-12: Launching DiscordBot-master - Copy] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B Release
+2020-05-29 03:49:02,370 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-05-29 03:49:28,725 [Worker-11: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\University\DiscordBots\DiscordBot-master - Copy
+2020-05-29 03:49:28,726 [Worker-11: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2020-05-29 03:53:29,884 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-29 03:53:30,884 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DiscordBot:DiscordBot:1.0-SNAPSHOT @ D:\University\DiscordBots\DiscordBot-master - Copy\pom.xml.
+2020-05-29 03:53:33,201 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DiscordBot-master - Copy/src/main/java because it overlaps with /DiscordBot-master - Copy/src
+2020-05-29 03:53:33,202 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscordBot-master - Copy/src/main/resources
+2020-05-29 03:53:33,203 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DiscordBot-master - Copy/src/test/java because it overlaps with /DiscordBot-master - Copy/src
+2020-05-29 03:53:33,216 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-05-29 03:53:34,815 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/javacord/javacord-api/3.0.3/javacord-api-3.0.3-sources.jar
+2020-05-29 03:53:36,146 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/org/javacord/javacord-api/3.0.3/javacord-api-3.0.3-sources.jar
+2020-05-29 03:53:37,063 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/org/javacord/javacord-api/3.0.3/javacord-api-3.0.3-sources.jar
+2020-05-29 03:53:37,393 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 03:53:37,417 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 03:53:37,429 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 03:53:37,476 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 03:53:37,929 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javacord:javacord-api:3.0.3
+2020-05-29 03:53:38,150 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/javacord/javacord-core/3.0.3/javacord-core-3.0.3-sources.jar
+2020-05-29 03:53:39,536 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/org/javacord/javacord-core/3.0.3/javacord-core-3.0.3-sources.jar
+2020-05-29 03:53:40,619 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/org/javacord/javacord-core/3.0.3/javacord-core-3.0.3-sources.jar
+2020-05-29 03:53:41,041 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javacord:javacord-core:3.0.3
+2020-05-29 03:53:41,275 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/squareup/okhttp3/logging-interceptor/3.9.1/logging-interceptor-3.9.1-sources.jar
+2020-05-29 03:53:41,604 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/squareup/okhttp3/logging-interceptor/3.9.1/logging-interceptor-3.9.1-sources.jar
+2020-05-29 03:53:41,742 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/squareup/okhttp3/logging-interceptor/3.9.1/logging-interceptor-3.9.1-sources.jar
+2020-05-29 03:53:42,331 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.squareup.okhttp3:logging-interceptor:3.9.1
+2020-05-29 03:53:42,516 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/logging/log4j/log4j-api/2.11.0/log4j-api-2.11.0-sources.jar
+2020-05-29 03:53:42,950 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/org/apache/logging/log4j/log4j-api/2.11.0/log4j-api-2.11.0-sources.jar
+2020-05-29 03:53:43,102 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/org/apache/logging/log4j/log4j-api/2.11.0/log4j-api-2.11.0-sources.jar
+2020-05-29 03:53:43,488 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-api:2.11.0
+2020-05-29 03:53:44,121 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar
+2020-05-29 03:53:44,438 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar
+2020-05-29 03:53:44,630 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar
+2020-05-29 03:53:45,300 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.1.3
+2020-05-29 03:53:45,496 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/commons-codec/commons-codec/1.6/commons-codec-1.6-sources.jar
+2020-05-29 03:53:45,901 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/commons-codec/commons-codec/1.6/commons-codec-1.6-sources.jar
+2020-05-29 03:53:46,034 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/commons-codec/commons-codec/1.6/commons-codec-1.6-sources.jar
+2020-05-29 03:53:46,671 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.6
+2020-05-29 03:53:46,709 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/commons-io/commons-io/2.6/commons-io-2.6-sources.jar
+2020-05-29 03:53:47,113 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/commons-io/commons-io/2.6/commons-io-2.6-sources.jar
+2020-05-29 03:53:47,281 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/commons-io/commons-io/2.6/commons-io-2.6-sources.jar
+2020-05-29 03:53:47,876 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:2.6
+2020-05-29 03:53:48,097 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/google/code/gson/gson/2.8.1/gson-2.8.1-sources.jar
+2020-05-29 03:53:48,435 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/google/code/gson/gson/2.8.1/gson-2.8.1-sources.jar
+2020-05-29 03:53:48,673 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/google/code/gson/gson/2.8.1/gson-2.8.1-sources.jar
+2020-05-29 03:53:48,949 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.1
+2020-05-29 03:53:49,584 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/httpcomponents/httpasyncclient/4.1.1/httpasyncclient-4.1.1-sources.jar
+2020-05-29 03:53:49,917 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/org/apache/httpcomponents/httpasyncclient/4.1.1/httpasyncclient-4.1.1-sources.jar
+2020-05-29 03:53:50,154 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/org/apache/httpcomponents/httpasyncclient/4.1.1/httpasyncclient-4.1.1-sources.jar
+2020-05-29 03:53:50,513 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpasyncclient:4.1.1
+2020-05-29 03:53:50,696 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/httpcomponents/httpcore-nio/4.4.4/httpcore-nio-4.4.4-sources.jar
+2020-05-29 03:53:51,954 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/org/apache/httpcomponents/httpcore-nio/4.4.4/httpcore-nio-4.4.4-sources.jar
+2020-05-29 03:53:52,850 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/org/apache/httpcomponents/httpcore-nio/4.4.4/httpcore-nio-4.4.4-sources.jar
+2020-05-29 03:53:53,190 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore-nio:4.4.4
+2020-05-29 03:53:53,372 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/httpcomponents/httpmime/4.5.2/httpmime-4.5.2-sources.jar
+2020-05-29 03:53:53,685 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/org/apache/httpcomponents/httpmime/4.5.2/httpmime-4.5.2-sources.jar
+2020-05-29 03:53:54,473 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/org/apache/httpcomponents/httpmime/4.5.2/httpmime-4.5.2-sources.jar
+2020-05-29 03:53:54,869 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpmime:4.5.2
+2020-05-29 03:53:55,104 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/commons-net/commons-net/3.6/commons-net-3.6-sources.jar
+2020-05-29 03:53:55,529 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/commons-net/commons-net/3.6/commons-net-3.6-sources.jar
+2020-05-29 03:53:55,713 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/commons-net/commons-net/3.6/commons-net-3.6-sources.jar
+2020-05-29 03:53:56,726 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-net:commons-net:3.6
+2020-05-29 03:53:56,949 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/fr/bmartel/http-endec/1.04/http-endec-1.04-sources.jar
+2020-05-29 03:53:57,253 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/fr/bmartel/http-endec/1.04/http-endec-1.04-sources.jar
+2020-05-29 03:53:57,626 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/fr/bmartel/http-endec/1.04/http-endec-1.04-sources.jar
+2020-05-29 03:53:58,167 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for fr.bmartel:http-endec:1.04
+2020-05-29 03:53:58,345 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar
+2020-05-29 03:53:58,657 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar
+2020-05-29 03:53:59,265 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar
+2020-05-29 03:53:59,653 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.findbugs:jsr305:3.0.2
+2020-05-29 03:54:00,284 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/jetbrains/annotations/16.0.1/annotations-16.0.1-sources.jar
+2020-05-29 03:54:00,608 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/org/jetbrains/annotations/16.0.1/annotations-16.0.1-sources.jar
+2020-05-29 03:54:00,943 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/org/jetbrains/annotations/16.0.1/annotations-16.0.1-sources.jar
+2020-05-29 03:54:01,406 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jetbrains:annotations:16.0.1
+2020-05-29 03:54:02,094 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/neovisionaries/nv-websocket-client/2.5/nv-websocket-client-2.5-sources.jar
+2020-05-29 03:54:02,419 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/neovisionaries/nv-websocket-client/2.5/nv-websocket-client-2.5-sources.jar
+2020-05-29 03:54:02,673 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/neovisionaries/nv-websocket-client/2.5/nv-websocket-client-2.5-sources.jar
+2020-05-29 03:54:03,282 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.neovisionaries:nv-websocket-client:2.5
+2020-05-29 03:54:03,914 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/squareup/okhttp3/okhttp/3.13.0/okhttp-3.13.0-sources.jar
+2020-05-29 03:54:05,165 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/squareup/okhttp3/okhttp/3.13.0/okhttp-3.13.0-sources.jar
+2020-05-29 03:54:06,055 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/squareup/okhttp3/okhttp/3.13.0/okhttp-3.13.0-sources.jar
+2020-05-29 03:54:06,432 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.squareup.okhttp3:okhttp:3.13.0
+2020-05-29 03:54:06,628 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/squareup/okio/okio/1.17.2/okio-1.17.2-sources.jar
+2020-05-29 03:54:06,941 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/squareup/okio/okio/1.17.2/okio-1.17.2-sources.jar
+2020-05-29 03:54:07,127 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/squareup/okio/okio/1.17.2/okio-1.17.2-sources.jar
+2020-05-29 03:54:07,511 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.squareup.okio:okio:1.17.2
+2020-05-29 03:54:07,699 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/club/minnced/opus-java-api/1.0.4/opus-java-api-1.0.4-sources.jar
+2020-05-29 03:54:08,003 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/club/minnced/opus-java-api/1.0.4/opus-java-api-1.0.4-sources.jar
+2020-05-29 03:54:08,151 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/club/minnced/opus-java-api/1.0.4/opus-java-api-1.0.4-sources.jar
+2020-05-29 03:54:08,662 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for club.minnced:opus-java-api:1.0.4
+2020-05-29 03:54:09,301 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/club/minnced/opus-java-natives/1.0.4/opus-java-natives-1.0.4-sources.jar
+2020-05-29 03:54:09,610 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/club/minnced/opus-java-natives/1.0.4/opus-java-natives-1.0.4-sources.jar
+2020-05-29 03:54:09,691 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/club/minnced/opus-java-natives/1.0.4/opus-java-natives-1.0.4-sources.jar
+2020-05-29 03:54:09,892 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for club.minnced:opus-java-natives:1.0.4
+2020-05-29 03:54:10,068 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1-sources.jar
+2020-05-29 03:54:10,479 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1-sources.jar
+2020-05-29 03:54:10,693 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1-sources.jar
+2020-05-29 03:54:10,988 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-collections4:4.1
+2020-05-29 03:54:11,021 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-sources.jar
+2020-05-29 03:54:12,282 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-sources.jar
+2020-05-29 03:54:13,644 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-sources.jar
+2020-05-29 03:54:14,071 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.trove4j:trove4j:3.0.3
+2020-05-29 03:54:14,252 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar
+2020-05-29 03:54:14,642 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar
+2020-05-29 03:54:14,791 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar
+2020-05-29 03:54:15,161 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for log4j:log4j:1.2.17
+2020-05-29 03:54:15,379 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/brunocvcunha/inutils4j/inutils4j/0.4/inutils4j-0.4-sources.jar
+2020-05-29 03:54:16,655 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/org/brunocvcunha/inutils4j/inutils4j/0.4/inutils4j-0.4-sources.jar
+2020-05-29 03:54:17,724 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/org/brunocvcunha/inutils4j/inutils4j/0.4/inutils4j-0.4-sources.jar
+2020-05-29 03:54:18,006 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.brunocvcunha.inutils4j:inutils4j:0.4
+2020-05-29 03:54:18,637 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/eu/medsea/mimeutil/mime-util/2.1.3/mime-util-2.1.3-sources.jar
+2020-05-29 03:54:19,839 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/eu/medsea/mimeutil/mime-util/2.1.3/mime-util-2.1.3-sources.jar
+2020-05-29 03:54:19,911 [Worker-15: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for eu.medsea.mimeutil:mime-util:2.1.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact eu.medsea.mimeutil:mime-util:jar:sources:2.1.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+2020-05-29 03:54:19,952 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/slf4j/slf4j-log4j12/1.5.6/slf4j-log4j12-1.5.6-sources.jar
+2020-05-29 03:54:20,696 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/org/slf4j/slf4j-log4j12/1.5.6/slf4j-log4j12-1.5.6-sources.jar
+2020-05-29 03:54:20,840 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/org/slf4j/slf4j-log4j12/1.5.6/slf4j-log4j12-1.5.6-sources.jar
+2020-05-29 03:54:21,071 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-log4j12:1.5.6
+2020-05-29 03:54:21,682 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5-sources.jar
+2020-05-29 03:54:22,903 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5-sources.jar
+2020-05-29 03:54:24,031 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5-sources.jar
+2020-05-29 03:54:24,303 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.8.5
+2020-05-29 03:54:24,478 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0-sources.jar
+2020-05-29 03:54:24,807 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0-sources.jar
+2020-05-29 03:54:24,986 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0-sources.jar
+2020-05-29 03:54:25,294 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.8.0
+2020-05-29 03:54:25,494 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/sedmelluq/lavaplayer-common/1.0.6/lavaplayer-common-1.0.6-sources.jar
+2020-05-29 03:54:25,796 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/sedmelluq/lavaplayer-common/1.0.6/lavaplayer-common-1.0.6-sources.jar
+2020-05-29 03:54:25,990 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/sedmelluq/lavaplayer-common/1.0.6/lavaplayer-common-1.0.6-sources.jar
+2020-05-29 03:54:26,229 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sedmelluq:lavaplayer-common:1.0.6
+2020-05-29 03:54:26,420 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/sedmelluq/lavaplayer-natives/1.2.55/lavaplayer-natives-1.2.55-sources.jar
+2020-05-29 03:54:26,731 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/sedmelluq/lavaplayer-natives/1.2.55/lavaplayer-natives-1.2.55-sources.jar
+2020-05-29 03:54:26,828 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/sedmelluq/lavaplayer-natives/1.2.55/lavaplayer-natives-1.2.55-sources.jar
+2020-05-29 03:54:27,132 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sedmelluq:lavaplayer-natives:1.2.55
+2020-05-29 03:54:27,777 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4-sources.jar
+2020-05-29 03:54:28,191 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4-sources.jar
+2020-05-29 03:54:28,345 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4-sources.jar
+2020-05-29 03:54:28,667 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.9.4
+2020-05-29 03:54:28,861 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/net/iharder/base64/2.3.9/base64-2.3.9-sources.jar
+2020-05-29 03:54:29,190 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/net/iharder/base64/2.3.9/base64-2.3.9-sources.jar
+2020-05-29 03:54:29,432 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/net/iharder/base64/2.3.9/base64-2.3.9-sources.jar
+2020-05-29 03:54:29,937 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.iharder:base64:2.3.9
+2020-05-29 03:54:30,138 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-sources.jar
+2020-05-29 03:54:30,558 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-sources.jar
+2020-05-29 03:54:30,749 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-sources.jar
+2020-05-29 03:54:31,111 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.6.1
+2020-05-29 03:54:31,307 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/cedarsoftware/json-io/2.4.1/json-io-2.4.1-sources.jar
+2020-05-29 03:54:32,042 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/cedarsoftware/json-io/2.4.1/json-io-2.4.1-sources.jar
+2020-05-29 03:54:32,263 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/cedarsoftware/json-io/2.4.1/json-io-2.4.1-sources.jar
+2020-05-29 03:54:32,586 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.cedarsoftware:json-io:2.4.1
+2020-05-29 03:54:32,780 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/ch/qos/logback/logback-core/1.3.0-alpha5/logback-core-1.3.0-alpha5-sources.jar
+2020-05-29 03:54:34,053 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/ch/qos/logback/logback-core/1.3.0-alpha5/logback-core-1.3.0-alpha5-sources.jar
+2020-05-29 03:54:34,981 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/ch/qos/logback/logback-core/1.3.0-alpha5/logback-core-1.3.0-alpha5-sources.jar
+2020-05-29 03:54:36,042 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback:logback-core:1.3.0-alpha5
+2020-05-29 03:54:36,683 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2-sources.jar
+2020-05-29 03:54:37,127 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2-sources.jar
+2020-05-29 03:54:37,326 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2-sources.jar
+2020-05-29 03:54:37,698 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.mail:javax.mail:1.6.2
+2020-05-29 03:54:38,345 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/javax/activation/activation/1.1/activation-1.1-sources.jar
+2020-05-29 03:54:38,667 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/javax/activation/activation/1.1/activation-1.1-sources.jar
+2020-05-29 03:54:38,850 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/javax/activation/activation/1.1/activation-1.1-sources.jar
+2020-05-29 03:54:39,397 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.activation:activation:1.1
+2020-05-29 03:54:39,591 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/edu/washington/cs/types/checker/checker-framework/1.7.0/checker-framework-1.7.0-sources.jar
+2020-05-29 03:54:39,899 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jcenter.bintray.com/edu/washington/cs/types/checker/checker-framework/1.7.0/checker-framework-1.7.0-sources.jar
+2020-05-29 03:54:40,025 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/edu/washington/cs/types/checker/checker-framework/1.7.0/checker-framework-1.7.0-sources.jar
+2020-05-29 03:54:40,600 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for edu.washington.cs.types.checker:checker-framework:1.7.0
+2020-05-29 03:54:42,200 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/eu/medsea/mimeutil/mime-util/2.1.3/mime-util-2.1.3-javadoc.jar
+2020-05-29 03:54:43,298 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jcenter.bintray.com/eu/medsea/mimeutil/mime-util/2.1.3/mime-util-2.1.3-javadoc.jar
+2020-05-29 03:54:43,345 [Worker-18: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for eu.medsea.mimeutil:mime-util:2.1.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact eu.medsea.mimeutil:mime-util:jar:javadoc:2.1.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+2020-05-29 04:00:31,783 [Worker-19: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\University\DiscordBots\DiscordBot-master - Copy
+2020-05-29 04:00:31,783 [Worker-19: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2020-05-29 04:00:48,716 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-29 04:00:49,458 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DiscordBot:DiscordBot:1.0-SNAPSHOT @ D:\University\DiscordBots\DiscordBot-master - Copy\pom.xml.
+2020-05-29 04:00:50,320 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DiscordBot-master - Copy/src/main/java because it overlaps with /DiscordBot-master - Copy/src
+2020-05-29 04:00:50,320 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscordBot-master - Copy/src/main/resources
+2020-05-29 04:00:50,322 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DiscordBot-master - Copy/src/test/java because it overlaps with /DiscordBot-master - Copy/src
+2020-05-29 04:00:50,329 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-05-29 04:00:52,546 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:00:52,575 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 04:00:52,588 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:00:52,618 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 04:00:54,097 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:00:54,123 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 04:00:54,125 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:00:54,143 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 04:06:30,621 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-29 04:06:31,262 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DiscordBot:DiscordBot:1.0-SNAPSHOT @ D:\University\DiscordBots\DiscordBot-master - Copy\pom.xml.
+2020-05-29 04:06:32,207 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DiscordBot-master - Copy/src/main/java because it overlaps with /DiscordBot-master - Copy/src
+2020-05-29 04:06:32,208 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscordBot-master - Copy/src/main/resources
+2020-05-29 04:06:32,209 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DiscordBot-master - Copy/src/test/java because it overlaps with /DiscordBot-master - Copy/src
+2020-05-29 04:06:32,215 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-05-29 04:06:33,955 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:06:33,972 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 04:06:33,982 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:06:33,998 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 04:07:01,117 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-29 04:07:01,729 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DiscordBot:DiscordBot:1.0-SNAPSHOT @ D:\University\DiscordBots\DiscordBot-master - Copy\pom.xml.
+2020-05-29 04:07:02,298 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DiscordBot-master - Copy/src/main/java because it overlaps with /DiscordBot-master - Copy/src
+2020-05-29 04:07:02,299 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscordBot-master - Copy/src/main/resources
+2020-05-29 04:07:02,299 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DiscordBot-master - Copy/src/test/java because it overlaps with /DiscordBot-master - Copy/src
+2020-05-29 04:07:02,302 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-05-29 04:07:03,944 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:07:03,968 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 04:07:03,978 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:07:03,995 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 04:07:36,267 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:07:36,296 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 04:07:36,298 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:07:36,327 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 04:07:44,299 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-29 04:07:44,938 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DiscordBot:DiscordBot:1.0-SNAPSHOT @ D:\University\DiscordBots\DiscordBot-master - Copy\pom.xml.
+2020-05-29 04:07:45,736 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DiscordBot-master - Copy/src/main/java because it overlaps with /DiscordBot-master - Copy/src
+2020-05-29 04:07:45,736 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscordBot-master - Copy/src/main/resources
+2020-05-29 04:07:45,737 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DiscordBot-master - Copy/src/test/java because it overlaps with /DiscordBot-master - Copy/src
+2020-05-29 04:07:45,741 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-05-29 04:07:47,780 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:07:47,807 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 04:07:47,821 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:07:47,840 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 04:13:45,323 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:13:45,343 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 04:13:45,344 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:13:45,365 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 04:13:50,662 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-29 04:13:51,209 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DiscordBot:DiscordBot:1.0-SNAPSHOT @ D:\University\DiscordBots\DiscordBot-master - Copy\pom.xml.
+2020-05-29 04:13:51,729 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DiscordBot-master - Copy/src/main/java because it overlaps with /DiscordBot-master - Copy/src
+2020-05-29 04:13:51,729 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DiscordBot-master - Copy/src/main/resources
+2020-05-29 04:13:51,730 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DiscordBot-master - Copy/src/test/java because it overlaps with /DiscordBot-master - Copy/src
+2020-05-29 04:13:52,202 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-05-29 04:13:52,684 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:13:52,697 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 04:13:52,711 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:13:52,722 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 04:14:03,971 [Worker-25: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\University\DiscordBots\DiscordBot-master - Copy
+2020-05-29 04:14:03,971 [Worker-25: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2020-05-29 04:14:15,497 [Worker-25: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\University\DiscordBots\DiscordBot-master - Copy
+2020-05-29 04:14:15,497 [Worker-25: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2020-05-29 04:15:16,171 [Worker-22: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\University\DiscordBots\DiscordBot-master - Copy
+2020-05-29 04:15:16,171 [Worker-22: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2020-05-29 04:23:21,619 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:23:21,701 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 04:23:21,720 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:23:21,736 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 04:23:28,472 [Worker-26: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\University\DiscordBots\DiscordBot-master - Copy
+2020-05-29 04:23:28,472 [Worker-26: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2020-05-29 04:24:48,700 [Worker-26: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\University\DiscordBots\DiscordBot-master - Copy
+2020-05-29 04:24:48,700 [Worker-26: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2020-05-29 04:28:03,523 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:28:03,534 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 04:28:03,535 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:28:03,546 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 04:29:40,232 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:29:40,258 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 04:29:40,283 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:29:40,323 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 04:31:54,236 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:31:54,249 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 04:31:54,254 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:31:54,265 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 04:32:10,577 [Worker-27: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\University\DiscordBots\DiscordBot-master - Copy
+2020-05-29 04:32:10,579 [Worker-27: Launching DiscordBot-master - Copy (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2020-05-29 04:32:27,611 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:32:27,624 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 04:32:27,626 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:32:27,639 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 04:32:54,253 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:32:54,276 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 04:32:54,284 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:32:54,302 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 04:33:30,855 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:33:30,868 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-29 04:33:30,871 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:33:30,890 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
+2020-05-29 04:34:58,439 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:34:58,450 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-29 04:34:58,455 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-29 04:34:58,467 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\University\DiscordBots\DiscordBot-master - Copy\src\test\resources
